@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtTitle">45dp</dimen>
+    <dimen name="txtWordtobeGuessed">40dp</dimen>
+    <dimen name="btnReset">30dp</dimen>
+    <dimen name="txtLetterstried">30dp</dimen>
+    <dimen name="editInput">20dp</dimen>
+    <dimen name="txtTriesleft">30dp</dimen>
+
+</resources>
